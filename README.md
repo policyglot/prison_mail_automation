@@ -12,3 +12,5 @@ We will then switch to deep learning approaches including:
 The final choice will be based on classification accuracy.
 
 Thereafter this project shifts to Airflow to help automate the use of templates to reply to emails. 
+
+This project also relies on Active Learning to help classify issues accurately. For this, we turn to the excellent work by Dr. Robert Munro.
